@@ -1,4 +1,4 @@
-# dotnet_azure_servicebus
+# Publish and Subscribe messages at Azure Service Bus
 Publish your messages from .NET to Azure Service Bus queue
 
 ## dotnet_azure_servicebus_pub
